@@ -1,0 +1,5 @@
+Durante o desenvolvimento desse projeto, enfrentei algumas dificuldades, especialmente ao tentar importar os dados para o sistema. Embora tenha encontrado obstáculos, essa experiência tem sido muito valiosa, já que é a minha primeira vez lidando com a linguagem SAP CAP. Acredito que, com mais prática, poderei aprimorar minhas habilidades nessa tecnologia, pois, embora eu ainda esteja em processo de adaptação, gostei bastante do que aprendi até aqui.
+
+Embora eu reconheça que o projeto não esteja 100% perfeito, fiz o melhor que pude dentro do conhecimento que consegui adquirir até o momento. Estou comprometido em melhorar e seguir aprendendo para entregar soluções cada vez mais eficientes.
+
+Agradeço pela oportunidade de participar deste processo seletivo e espero poder seguir em frente, aplicando os aprendizados e continuando minha evolução técnica.
